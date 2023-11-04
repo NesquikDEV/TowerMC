@@ -14,6 +14,11 @@ Um servidor de Minigames em continuação.
 ![Fiz as Aparências gerais kk](https://github.com/TowerContinued/TowerMC/assets/149634573/8e377cee-5c78-48cb-9ac8-bc6bcd7d8ab2)
 ![Preferências](https://github.com/TowerContinued/TowerMC/assets/149634573/1f40e168-443e-47f2-9fad-c37a767066f7)
 
+# LOBBIE
+- São hologramas que contabiliza kills de skywars/bedwars, todos os modos incluso kkj
+![Hologramas](https://github.com/NesquikDEV/TowerMC/assets/149634573/2d9bb2da-c19d-4260-b5b3-01aaf61f2318)
+
+
 # BED WARS
 ![Ainda refiz um BedWars bom é ótimo para jogo!](https://github.com/TowerContinued/TowerMC/assets/149634573/341161cf-2520-4391-8d5d-eb74e968e1d7)
 ![Pensa numa loja criativa (Foi selecionada pelo cliente)](https://github.com/TowerContinued/TowerMC/assets/149634573/a3279354-356f-46c1-9343-ea39e9b29332)
